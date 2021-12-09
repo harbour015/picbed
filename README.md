@@ -1,1 +1,1 @@
-# picbed
+提供wordpress文档所需要的图片
